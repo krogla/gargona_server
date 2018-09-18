@@ -1,0 +1,147 @@
+{
+  "bittrex": {
+    "active": true,
+    "ticker": false,
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.0025,
+    "fee_maker": 0.0025,
+    "fee_taker": 0.0025,
+    "pairs1": {
+
+    },
+    "pairs": {
+      "BTC-ETH": {
+        "alias": "BTC_ETH"
+      },
+      "BTC-LTC": {
+        "alias": "BTC_LTC"
+      },
+      "BTC-ZEC": {
+        "alias": "BTC_ZEC"
+      },
+      "BTC-BCC": {
+        "alias": "BTC_BCH"
+      },
+      "ETH-BCC": {
+        "alias": "ETH_BCH"
+      }
+    }
+  },
+  "wex": {
+    "active": true,
+    "ticker": false,
+    "APP_KEY": "ee987526a24ba107824c",
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.002,
+    "fee_maker": 0.002,
+    "fee_taker": 0.002,
+    "pairs1": {
+
+    },
+    "pairs": {
+      "eth_btc": {
+        "alias": "BTC_ETH"
+      },
+      "ltc_btc": {
+        "alias": "BTC_LTC"
+      },
+      "zec_btc": {
+        "alias": "BTC_ZEC"
+      },
+      "bch_btc": {
+        "alias": "BTC_BCH"
+      },
+      "dsh_btc": {
+        "alias": "BTC_DSH"
+      },
+      "bch_eth": {
+        "alias": "ETH_BCH"
+      }
+    }
+  },
+  "poloniex": {
+    "active": true,
+    "ticker": false,
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.0025,
+    "fee_maker": 0.0015,
+    "fee_taker": 0.0025,
+    "pairs1": {
+    },
+    "pairs": {
+      "BTC_ETH": {
+        "alias": "BTC_ETH"
+      },
+      "BTC_LTC": {
+        "alias": "BTC_LTC"
+      },
+      "BTC_ZEC": {
+        "alias": "BTC_ZEC"
+      },
+      "BTC_BCH": {
+        "alias": "BTC_BCH"
+      },
+      "ETH_BCH": {
+        "alias": "ETH_BCH"
+      },
+      "BTC_DASH": {
+        "alias": "BTC_DSH"
+      }
+    }
+  },
+  "bitfinex": {
+    "active": true,
+    "ticker": false,
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.002,
+    "fee_maker": 0.0008,
+    "fee_taker": 0.002,
+    "pairs1": {
+    },
+    "pairs": {
+      "tETHBTC": {
+        "alias": "BTC_ETH"
+      },
+      "tLTCBTC": {
+        "alias": "BTC_LTC"
+      },
+      "tZECBTC": {
+        "alias": "BTC_ZEC"
+      },
+      "tBCHBTC": {
+        "alias": "BTC_BCH"
+      },
+      "tBCHETH": {
+        "alias": "ETH_BCH"
+      },
+      "tDSHBTC": {
+        "alias": "BTC_DSH"
+      }
+    }
+  },
+  "bitstamp": {
+    "active": true,
+    "ticker": false,
+    "APP_KEY": "de504dc5763aeef9ff52",
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.0025,
+    "fee_maker": 0.0025,
+    "fee_taker": 0.0025,
+    "pairs": {
+      "ethbtc": {
+        "alias": "BTC_ETH"
+      },
+      "ltcbtc": {
+        "alias": "BTC_LTC"
+      },
+      "bchbtc": {
+        "alias": "BTC_BCH"
+      }
+    }
+  }
+}

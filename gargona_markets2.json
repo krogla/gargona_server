@@ -1,0 +1,119 @@
+{
+  "wex": {
+    "active": false,
+    "APP_KEY": "secret",
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.002,
+    "pairs": {
+      "BTC_ETH": {
+        "alias": "eth_btc",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_LTC": {
+        "alias": "ltc_btc",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_ZEC": {
+        "alias": "zec_btc",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      }
+    }
+  },
+  "poloniex": {
+    "active": false,
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.00,
+    "pairs": {
+      "BTC_ETH": {
+        "alias": "BTC_ETH",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_LTC": {
+        "alias": "BTC_LTC",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_ZEC": {
+        "alias": "BTC_ZEC",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      }
+    }
+  },
+  "bittrex": {
+    "active": true,
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.0025,
+    "pairs": {
+      "BTC_ETH": {
+        "alias": "BTC-ETH",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_LTC": {
+        "alias": "BTC-LTC",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_ZEC": {
+        "alias": "BTC-ZEC",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      }
+    }
+  },
+  "bitfinex": {
+    "active": false,
+    "API_KEY": "secret",
+    "API_SECRET": "secret",
+    "trade_fee": 0.002,
+    "pairs": {
+      "BTC_ETH": {
+        "alias": "tETHBTC",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_LTC": {
+        "alias": "tLTCBTC",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      },
+      "BTC_ZEC": {
+        "alias": "tZECBTC",
+        "feeIn": 0,
+        "feeOut": 0,
+        "feeBuy": 0,
+        "feeSell": 0
+      }
+    }
+  }
+}
